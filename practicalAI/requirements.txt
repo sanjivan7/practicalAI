@@ -1,2 +1,0 @@
-Flask
-azure-cognitiveservices-vision-computervision
